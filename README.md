@@ -6,6 +6,7 @@ Slightly modified vendor driver:
 - `-Wno-error=date-time`
 - no `-DDBG`, modified `sta/sta-cfg.c` (according to http://ubuntuforums.org/showthread.php?t=2118379&page=3&p=12562670#post12562670)
 - modified `rt_linux.h` (according to http://unix.stackexchange.com/a/158032)
+- `CHIPSET=5370` in `Makefile`
 
 ```
 sudo make
