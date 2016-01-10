@@ -1,0 +1,1 @@
+cmd_/home/kosyak/DPO_RT5572_LinuxSTA_2.6.1.3_20121022/os/linux/rt5572sta.ko := ld -r  -T ./scripts/module-common.lds --build-id  -o /home/kosyak/DPO_RT5572_LinuxSTA_2.6.1.3_20121022/os/linux/rt5572sta.ko /home/kosyak/DPO_RT5572_LinuxSTA_2.6.1.3_20121022/os/linux/rt5572sta.o /home/kosyak/DPO_RT5572_LinuxSTA_2.6.1.3_20121022/os/linux/rt5572sta.mod.o
